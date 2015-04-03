@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"form	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/base.html",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "forms.py",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/login.html",
+			"settings":
+			{
+				"buffer_size": 365,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views.py",
+			"settings":
+			{
+				"buffer_size": 674,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Natanael/microblog/run.py",
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Virtualenv/Python + Virtualenv.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"act",
+				"Virtualenv: Activate"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Natanael/microblog",
+		"/C/Users/Natanael/microblog/app"
+	],
+	"file_history":
+	[
+		"/C/Users/Natanael/microblog/app/__init__.py",
+		"/C/Users/Natanael/microblog/config.py",
+		"/C/Users/Natanael/microblog/app/templates/index.html",
+		"/C/Users/Natanael/microblog/app/views.py",
+		"/C/Users/Natanael/microblog/run.py",
+		"/C/Users/Natanael/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Natanael/microblog/microblog.sublime-project",
+		"/C/Program Files/FDR/bin/fdr.py",
+		"/C/Users/Natanael/Desktop/if686/20150324.hs",
+		"/C/Users/Natanael/Desktop/mergeSort.hs",
+		"/C/Users/Natanael/Desktop/Novo Documento de Texto.py",
+		"/C/Users/Natanael/AppData/Roaming/My Battle for Middle-earth(tm) II Files/Options.ini",
+		"/C/Users/Natanael/AppData/Local/Microsoft/Windows/INetCache/IE/04RM8TNT/2[1].java",
+		"/C/Users/Natanael/Desktop/activity_answers.xml",
+		"/C/Users/Natanael/Desktop/row_questions.xml",
+		"/C/Users/Natanael/Desktop/row_answers.xml",
+		"/C/Users/Natanael/Desktop/activity_questions.xml",
+		"/C/Users/Natanael/Downloads/MuitasThreads.java",
+		"/C/Users/Natanael/AppData/Local/Temp/Temp1_Newcomers_05022015.zip/Newcomers/src/newcomer/fragment/FeedFragment.java",
+		"/C/Users/Natanael/AppData/Local/Temp/Temp1_Newcomers_05022015.zip/Newcomers/src/com/fb/newcomersapp/CustomListAdapter.java",
+		"/C/Users/Natanael/AppData/Local/Temp/Temp1_Newcomers_05022015.zip/Newcomers/src/com/fb/newcomersapp/FeedActivity.java",
+		"/C/Users/Natanael/Desktop/PLC/src/L2Q1_2.java",
+		"/C/Users/Natanael/Downloads/UmaThread.java",
+		"/C/Users/Natanael/Downloads/PoucasThreads.java",
+		"/C/Users/Natanael/AppData/Local/Temp/Temp1_newcomersbug.zip/Newcomers/src/com/fb/newcomersapp/FeedActivity.java",
+		"/C/Users/Natanael/Documents/GitHub/skimscheme/Nova/interp.hs",
+		"/C/Users/Natanael/Documents/GitHub/skimscheme/Nova/SSPrettyPrinter.hs",
+		"/C/Users/Natanael/Documents/GitHub/skimscheme/Nova/SSParser.hs",
+		"/C/Users/Natanael/Documents/GitHub/skimscheme/Nova/SSInterpreter.hs",
+		"/C/Users/Natanael/AppData/Local/Temp/Temp1_SlidingMenu.zip/SlidingMenu/res/drawable/counter_bg.xml",
+		"/C/Users/Natanael/Desktop/Projeto PLC/skimscheme-master/SSPrettyPrinter.hs",
+		"/C/Users/Natanael/Desktop/Projeto PLC/skimscheme-master/SSInterpreter.hs",
+		"/C/Users/Natanael/Desktop/Projeto PLC/skimscheme-master/LispVal.hs",
+		"/C/Users/Natanael/AppData/Local/Temp/Temp1_SlidingMenu.zip/SlidingMenu/res/layout/activity_main.xml"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"P3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							],
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 12.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Natanael/microblog/run.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 133.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "microblog.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"for x in range(0, 5):"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
